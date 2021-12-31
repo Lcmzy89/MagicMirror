@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-MM2/Pods-MM2-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CLImagePickerTool/CLImagePickerTool.framework
+${BUILT_PRODUCTS_DIR}/LookinServer/LookinServer.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework

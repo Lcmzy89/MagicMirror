@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CLImagePickerTool (3.1.3)
+  - LookinServer (1.0.4)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SnapKit (5.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - CLImagePickerTool (~> 3.1.3)
+  - LookinServer (~> 1.0.4)
+  - Moya (~> 15.0.0)
+  - SnapKit (~> 5.0.1)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  https://gitee.com/mirrors/CocoaPods-Specs.git:
+    - Alamofire
+    - CLImagePickerTool
+    - LookinServer
+    - Moya
+    - SnapKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CLImagePickerTool: 2ef59c6524efd493571a0ee2bc42f445b4c5b2cb
+  LookinServer: 743c1681771d0a8dcc38825325a080c3186404a5
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: ad628ef9119507bc23631f402e80c5a6abc9d9f7
+
+COCOAPODS: 1.11.2
